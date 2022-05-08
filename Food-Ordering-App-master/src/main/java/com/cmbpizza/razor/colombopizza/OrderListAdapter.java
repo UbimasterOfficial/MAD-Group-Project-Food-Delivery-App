@@ -14,6 +14,9 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
+/**
+ * Created by RazR on 1/31/2018, as a list adapter method
+ */
 
 
 //we create a new base adapter to assign a custom layout to the list view
